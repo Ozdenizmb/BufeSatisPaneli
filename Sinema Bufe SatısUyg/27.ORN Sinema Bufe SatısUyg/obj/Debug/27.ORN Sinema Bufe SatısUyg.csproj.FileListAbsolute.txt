@@ -1,0 +1,18 @@
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\bin\Debug\27.ORN Sinema Bufe SatısUyg.exe.config
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\bin\Debug\27.ORN Sinema Bufe SatısUyg.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\bin\Debug\27.ORN Sinema Bufe SatısUyg.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.csprojResolveAssemblyReference.cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\_27.ORN_Sinema_Bufe_SatısUyg.Form1.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\_27.ORN_Sinema_Bufe_SatısUyg.Properties.Resources.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.csproj.GenerateResource.Cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\bin\Debug\27.ORN Sinema Bufe SatısUyg.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\bin\Debug\27.ORN Sinema Bufe SatısUyg.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\bin\Debug\27.ORN Sinema Bufe SatısUyg.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\_27.ORN_Sinema_Bufe_SatısUyg.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\_27.ORN_Sinema_Bufe_SatısUyg.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\27.ORN Sinema Bufe SatısUyg\27.ORN Sinema Bufe SatısUyg\obj\Debug\27.ORN Sinema Bufe SatısUyg.csproj.GenerateResource.Cache
